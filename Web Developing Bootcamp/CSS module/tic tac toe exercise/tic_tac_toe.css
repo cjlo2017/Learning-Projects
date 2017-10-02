@@ -1,0 +1,32 @@
+body {
+
+}
+
+table {
+	height: 300px;
+	width: 300px;
+	margin: 10px auto;
+	empty-cells: show;
+}
+
+h1 {
+	font-size: 2em;
+	text-align: center;
+	color: orange;
+}
+
+td {
+	width: 100px;
+	height: 100px;
+}
+
+.midcol {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
+.midrow {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
